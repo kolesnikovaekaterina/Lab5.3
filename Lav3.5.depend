@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1587728745 source:c:\users\79085\desktop\lav3.5\main.cpp
+	<iostream>
+	"Tovar.h"
+	"Fruit.h"
+	"Milk.h"
+	"Grocery.h"
+
+1587728745 source:c:\users\79085\desktop\lav3.5\grocery.cpp
+	<iostream>
+	"Tovar.h"
+	"Grocery.h"
+
+1587723509 c:\users\79085\desktop\lav3.5\tovar.h
+
+1587723770 c:\users\79085\desktop\lav3.5\grocery.h
+	"Tovar.h"
+
+1587728745 source:c:\users\79085\desktop\lav3.5\fruit.cpp
+	<iostream>
+	"Tovar.h"
+	"Fruit.h"
+
+1587723760 c:\users\79085\desktop\lav3.5\fruit.h
+	"tovar.h"
+
+1587724612 source:c:\users\79085\desktop\lav3.5\tovar.cpp
+	<iostream>
+	"Tovar.h"
+
+1587728745 source:c:\users\79085\desktop\lav3.5\milk.cpp
+	<iostream>
+	"Tovar.h"
+	"Milk.h"
+
+1587723760 c:\users\79085\desktop\lav3.5\milk.h
+	"Tovar.h"
+
